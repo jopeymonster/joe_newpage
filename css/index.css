@@ -37,7 +37,7 @@ header {
 
 body {
   margin: 0;
-  background-image: url("file:///C:/Users/jopey/Desktop/thompson_site/cv/images/city1.jpg");
+  background-image: url("/cv/images/city1.jpg");
   background-color: #000;
   background-size: cover;
   background-position: top;
