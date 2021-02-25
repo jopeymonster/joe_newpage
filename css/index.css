@@ -37,7 +37,7 @@ header {
 
 body {
   margin: 0;
-  background-image: url(joe_newpage/images/city1.jpg);
+  background-image: url("https://jopeymonster.github.io/joe_newpage/css/index.css");
   background-color: #000;
   background-size: cover;
   background-position: top;
